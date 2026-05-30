@@ -12,8 +12,6 @@ Engineer building at the intersection of **AI** and **decentralized systems**
 
 <br/>
 
-Currently building **[LifeOS](https://github.com/Sarthakx12/lifeos)** — an AI-native life operating system with gamified quests, habit tracking, and an agent that learns how you operate.
-
 Open to hackathons and serious collaborations.
 
 <br/>
