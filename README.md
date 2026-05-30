@@ -36,13 +36,5 @@ Solana   ·  Node.js     ·  tRPC        ·  PostgreSQL ·  Tailwind
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sarthakx12&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" height="130"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 <sub>India &nbsp;·&nbsp; building in public &nbsp;·&nbsp; since 2021</sub>
 </div>
