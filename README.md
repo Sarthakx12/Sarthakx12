@@ -1,96 +1,50 @@
-<!--
-  ╔══════════════════════════════════════════╗
-  ║     Sarthak Verma — GitHub Profile       ║
-  ╚══════════════════════════════════════════╝
--->
-
 <div align="center">
 
-```
-███████╗ █████╗ ██████╗ ████████╗██╗  ██╗ █████╗ ██╗  ██╗
-██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██║ ██╔╝
-███████╗███████║██████╔╝   ██║   ███████║███████║█████╔╝ 
-╚════██║██╔══██║██╔══██╗   ██║   ██╔══██║██╔══██║██╔═██╗ 
-███████║██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║  ██╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+# Sarthak Verma
 
-### `sarthak verma` · full stack · ai · web3
+Engineer building at the intersection of **AI** and **decentralized systems**
 
-[![](https://img.shields.io/badge/open%20to%20collabs-ffffff?style=flat-square&labelColor=111&color=111&logoColor=white)](https://github.com/Sarthakx12)
-[![](https://img.shields.io/badge/𝕏%20@sarthakx12-111111?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sarthakx12)
-[![](https://img.shields.io/badge/linkedin-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakx12)
-[![](https://komarev.com/ghpvc/?username=Sarthakx12&style=flat-square&color=111111&label=profile+views&labelColor=111111)](https://github.com/Sarthakx12)
-
-</div>
-
----
-
-```typescript
-const sarthak = {
-  role:     "Full Stack Engineer",
-  focus:    ["AI Integrations", "Web3 / Onchain Apps", "Systems Design"],
-  stack:    ["Next.js", "TypeScript", "Claude API", "Supabase", "Solana"],
-  status:   "open to hackathons & serious collabs",
-} as const;
-```
-
----
-
-## ◈ projects
-
-| | repo | what it does | status |
-|:--|:--|:--|:--|
-| ▸ | [**LifeOS**](https://github.com/Sarthakx12/lifeos) | Gamified RPG life OS — quests, habits, AI soul sync | `🔨 building` |
-| ▸ | [**NexusVote**](https://github.com/Sarthakx12/decentralized-voting-app) | Decentralized on-chain governance & voting | `✓ live` |
-
----
-
-## ◈ stack
-
-```
-frontend   →  Next.js  ·  React  ·  TypeScript  ·  Tailwind  ·  Framer Motion
-backend    →  Node.js  ·  tRPC  ·  Prisma  ·  Supabase  ·  PostgreSQL
-ai         →  Claude API  ·  Prompt Engineering  ·  Agent Systems
-web3       →  Solana  ·  Ethers.js  ·  Smart Contracts  ·  Hardhat  ·  Foundry
-```
-
----
-
-## ◈ stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sarthakx12&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" height="150"/>
+[![X](https://img.shields.io/badge/@sarthakx12-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sarthakx12)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakx12&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=5&text_color=ffffff&bg_color=0d1117" height="150"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakx12)
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sarthakx12&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## ◈ activity
-
-<div align="center">
-
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=Sarthakx12&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-`india` &nbsp;·&nbsp; `building in public` &nbsp;·&nbsp; `since jul 2021`
 
 <br/>
 
-*ship fast. learn hard. level up.*
+Currently building **[LifeOS](https://github.com/Sarthakx12/lifeos)** — an AI-native life operating system with gamified quests, habit tracking, and an agent that learns how you operate.
 
+Open to hackathons and serious collaborations.
+
+<br/>
+
+**Projects**
+
+&nbsp;&nbsp;**[LifeOS](https://github.com/Sarthakx12/lifeos)** &nbsp;—&nbsp; Gamified life OS with AI soul sync, quests, and habit intelligence &nbsp;`active`
+
+&nbsp;&nbsp;**[NexusVote](https://github.com/Sarthakx12/decentralized-voting-app)** &nbsp;—&nbsp; On-chain governance and decentralized voting protocol &nbsp;`live`
+
+&nbsp;&nbsp;**[GymTracker](https://github.com/Sarthakx12/gym_tracker)** &nbsp;—&nbsp; Flutter workout tracker with Supabase sync and Google auth &nbsp;`live`
+
+<br/>
+
+**Stack**
+
+```
+Next.js  ·  TypeScript  ·  Claude API  ·  Supabase  ·  Flutter
+Solana   ·  Node.js     ·  tRPC        ·  PostgreSQL ·  Tailwind
+```
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthakx12&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" height="130"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>India &nbsp;·&nbsp; building in public &nbsp;·&nbsp; since 2021</sub>
 </div>
