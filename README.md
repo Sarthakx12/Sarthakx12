@@ -14,17 +14,7 @@ Engineer building at the intersection of **AI** and **decentralized systems**
 
 Open to hackathons and serious collaborations.
 
-<br/>
 
-**Projects**
-
-&nbsp;&nbsp;**[LifeOS](https://github.com/Sarthakx12/lifeos)** &nbsp;—&nbsp; Gamified life OS with AI soul sync, quests, and habit intelligence &nbsp;`active`
-
-&nbsp;&nbsp;**[NexusVote](https://github.com/Sarthakx12/decentralized-voting-app)** &nbsp;—&nbsp; On-chain governance and decentralized voting protocol &nbsp;`live`
-
-&nbsp;&nbsp;**[GymTracker](https://github.com/Sarthakx12/gym_tracker)** &nbsp;—&nbsp; Flutter workout tracker with Supabase sync and Google auth &nbsp;`live`
-
-<br/>
 
 **Stack**
 
