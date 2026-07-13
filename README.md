@@ -1,20 +1,5 @@
 
 
-<br/>
-
-Open to hackathons and serious collaborations.
-
-
-
-**Stack**
-
-```
-Next.js  ·  TypeScript  ·  Claude API  ·  Supabase  ·  Flutter
-Solana   ·  Node.js     ·  tRPC        ·  PostgreSQL ·  Tailwind
-```
-
-<br/>
-
 <div align="center">
 <sub>India &nbsp;·&nbsp; building in public &nbsp;·&nbsp; since 2021</sub>
 </div>
