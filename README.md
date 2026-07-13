@@ -1,14 +1,4 @@
-<div align="center">
 
-# Sarthak Verma
-
-Engineer building at the intersection of **AI** and **decentralized systems**
-
-[![X](https://img.shields.io/badge/@sarthakx12-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sarthakx12)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakx12)
-
-</div>
 
 <br/>
 
